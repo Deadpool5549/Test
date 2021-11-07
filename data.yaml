@@ -1,5 +1,5 @@
-train: kaggle/input/yolor1/train/images
-val: kaggle/input/yolor1/valid/images
+train: /kaggle/input/yolor1/train/images
+val: /kaggle/input/yolor1/valid/images
 
 nc: 1
 names: ['trash_plastic']
